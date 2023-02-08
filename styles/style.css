@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+}
+
+
+
+/* Heading and banner styles */
+
+.heading-container {
+    position: relative;
+}
+
+.heading-container img {
+    max-width: 100%;
+    max-height: auto;
+    background-color: blanchedalmond;
+}
+
+.banner-text {
+    position: absolute;
+    top: 30%;
+    text-align: right;
+    padding-left: 800px;
+    padding-right: 200px;
+
+
+}
+
+.banner-title {
+    font-weight: 800;
+    font-style: inherit;
+    margin-bottom: 10px;
+    font-size: 30px;
+
+}
+
+.btn-primary {
+    background: #ff4500;
+    color: #f5f5f5;
+    border: 0;
+    padding: 5px;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 20px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.banner-description {
+    padding-bottom: 15px;
+    font-weight: 500;
+    font-size: 17px;
+    font-size: bold;
+
+
+
+
+}
+
+/* first main section styles  */
+.main-section {
+    display: flex;
+    background: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+
+.failure-part {
+    padding-top: 200px;
+}
+
+.failure-title {
+    font-weight: 600;
+}
+
+.right-icon {
+    color: rgb(25, 36, 160);
+
+}
